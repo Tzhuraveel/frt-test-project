@@ -2,8 +2,7 @@
 ***
 
 
-This test project allows you to request all available tickets.
-
+This test project allows you to request all available tickets.  
 
 # Main technologies
 
